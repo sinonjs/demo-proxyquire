@@ -2,7 +2,7 @@
 
 var proxyquire = require('proxyquire');
 var sinon = require('sinon');
-var assert = require('referee').assert;
+var assert = require('@sinonjs/referee').assert;
 
 var doesFileExist; // the module to test
 var existsSyncStub; // the fake method on the dependency
