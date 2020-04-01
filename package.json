@@ -10,7 +10,7 @@
   "author": "Morgan Roderick",
   "license": "MIT",
   "devDependencies": {
-    "@sinonjs/referee": "5.0.0",
+    "@sinonjs/referee": "5.0.1",
     "mocha": "7.1.0",
     "proxyquire": "2.1.3",
     "sinon": "9.0.0"
